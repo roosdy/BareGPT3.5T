@@ -1,4 +1,4 @@
-# Chatbot using OpenAI's GPT-3 API
+# Chatbot using OpenAI's GPT-3.5-Turbo API
 
 This project implements a chatbot using OpenAI's GPT-3 API. The chatbot is trained on a set of conversation examples and can generate responses to user queries in natural language.
 
