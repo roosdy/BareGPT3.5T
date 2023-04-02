@@ -13,10 +13,10 @@ To run this project, you will need the following:
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/<your_username>/chatbot-gpt3.git`
+1. Clone this repository: `git clone https://github.com/roosdy/BareGPT3.5T.git`
 2. Install the `openai` package: `pip install openai`
-3. Add your OpenAI API key to a text file called `openaiapikey.txt`
-4. Save your conversation examples in a text file called `chatbot.txt`
+3. Add your OpenAI API key to the file writing function that creates `openaiapikey.txt`
+4. Save your chatbot persona under the file writing function that creates`chatbot.txt`
 
 ## Usage
 
